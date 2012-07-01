@@ -1,3 +1,10 @@
+# This Repository #
+
+This is simply a duplication of [the original repository](https://bitbucket.org/webbedfeet/ml_for_hackers) on github with
+possibly changes and additions made by [marcgg](http://github.com/marcgg).
+
+Please refer to the other repository for an up to date and more accurate version of the code.
+
 # Code for Machine Learning for Hackers #
 
 This repository contains all of the code examples for [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do) (2012).  The code may not appear exactly as it does in the text, as additional comments and modifications may have been added since publication.
